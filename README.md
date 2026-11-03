@@ -255,7 +255,7 @@ https://github.com/Aravind-DEV83/bank_marketing_classification_repo
 
 **Live Streamlit Application:**
 
-[Add the deployed Streamlit Community Cloud URL here after deployment.]
+[Streamlit application](https://bank-customer-classification-05462.streamlit.app/)
 
 ---
 
